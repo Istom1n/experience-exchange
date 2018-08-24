@@ -31,7 +31,7 @@
 [ ] 1. Установить Go последней версии, и в качестве проверки просто введешь ([хинт моего перевода по установке](https://istom1n.gitbook.io/learn-go-with-tests/install-go)).
 [ ] 2. Также, прочитать главу "Привет, мир!" и соответственно скомпилировать и выполнить ее.
 [ ] 3. Выучить [синтаксис Markdown](https://guides.github.com/features/mastering-markdown/), он очень простой, зато когда привыкаешь, уже не хочется ни к чему переходить.
-[ ] 4. Прочитать из первой книги
+[ ] 4. Прочитать из первой книги две главы: ""
 
 ---
 <!--stackedit_data:
@@ -58,7 +58,7 @@ vQtSwg0LLRgdC1INGH0YLQviDQvdCw0Y/RgdC90L4g4oCUINGB
 0L/RgNCw0YjQuNCy0LDQuSDQvtCx0Y/Qt9Cw0YLQtdC70YzQvd
 C+LCDQuNC70Lgg0YLRg9GCLCDQuNC70Lgg0L3QtSDRgtGD0YIi
 LCJjcmVhdGVkIjoxNTM1MTE5MTc5MTg0fX0sImhpc3RvcnkiOl
-stMTQyNDc2MDg5OCwtMTI5MTExODM5MSw3MDg4NTY3MDIsMzYz
-ODgzMzksMTQ0NzYzMTYzMiwyMDk1MTU4MjI0LDEwMDY0OTU1MC
-wxODQ2Njg4MTIsLTE4NzI4OTI3MDRdfQ==
+stNDU4MTU3ODE2LC0xNDI0NzYwODk4LC0xMjkxMTE4MzkxLDcw
+ODg1NjcwMiwzNjM4ODMzOSwxNDQ3NjMxNjMyLDIwOTUxNTgyMj
+QsMTAwNjQ5NTUwLDE4NDY2ODgxMiwtMTg3Mjg5MjcwNF19
 -->
