@@ -28,8 +28,10 @@
 ## Задания на 26.08
 > Я выбрал воскресерье, потому что ты будешь приходить с работы уставший и ничего толком не выучить ни сделать. Т. к. до конца недели осталось довольно мало, задания даю тебе довольно простые.
 
-1. Установить Go последней версии, и в качестве проверки просто введешь:
+1. Установить Go последней версии, и в качестве проверки просто введешь (хинт моего перевода по установке):
 ```bash
+$ go version
+```
 <!--stackedit_data:
 eyJkaXNjdXNzaW9ucyI6eyJPeEo0Y3VmM1p4VkltZjlCIjp7In
 N0YXJ0Ijo1ODksImVuZCI6NzAwLCJ0ZXh0IjoiLSBbR28gYnkg
@@ -54,7 +56,7 @@ vQtSwg0LLRgdC1INGH0YLQviDQvdCw0Y/RgdC90L4g4oCUINGB
 0L/RgNCw0YjQuNCy0LDQuSDQvtCx0Y/Qt9Cw0YLQtdC70YzQvd
 C+LCDQuNC70Lgg0YLRg9GCLCDQuNC70Lgg0L3QtSDRgtGD0YIi
 LCJjcmVhdGVkIjoxNTM1MTE5MTc5MTg0fX0sImhpc3RvcnkiOl
-stMTAzMDI1ODg2NSwzNjM4ODMzOSwxNDQ3NjMxNjMyLDIwOTUx
-NTgyMjQsMTAwNjQ5NTUwLDE4NDY2ODgxMiwtMTg3Mjg5MjcwNF
-19
+s3MDg4NTY3MDIsMzYzODgzMzksMTQ0NzYzMTYzMiwyMDk1MTU4
+MjI0LDEwMDY0OTU1MCwxODQ2Njg4MTIsLTE4NzI4OTI3MDRdfQ
+==
 -->
