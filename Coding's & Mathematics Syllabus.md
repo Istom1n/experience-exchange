@@ -8,8 +8,9 @@
 
 
 #### Временные ссылки
+- [Go by Examples](https://gobyexample.com/)
 - [Патерны проектирования на Go](https://github.com/tmrts/go-patterns)
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3NzA2MjgwNV19
+eyJoaXN0b3J5IjpbLTEyNjk3ODkxMjNdfQ==
 -->
