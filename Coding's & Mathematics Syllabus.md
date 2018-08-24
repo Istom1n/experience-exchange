@@ -8,9 +8,9 @@
 
 
 #### Временные ссылки
-- [Go by Examples](https://gobyexample.com/)
+- [Go by Examples](https://gobyexample.com/) & [Learn Go w\ tests](https://quii.gitbook.io/learn-go-with-tests)
 - [Патерны проектирования на Go](https://github.com/tmrts/go-patterns)
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjk3ODkxMjNdfQ==
+eyJoaXN0b3J5IjpbMjA0NTM1MTY1NV19
 -->
