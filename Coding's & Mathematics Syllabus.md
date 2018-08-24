@@ -4,7 +4,8 @@
 3. Изученние паттернов проектирования
 4. Классы осыков, в особенности объектно-ориентированного программирования, его философии и почему он именно такой какой есть.
 5. Более грубокое изучение основ ООП
-6.  SOLID (single responsibility, open-closed, Liskov substitution, interface segregation и dependency inversion)
+6.  SOLID
+	7. single responsibility, open-closed, Liskov substitution, interface segregation и dependency inversion)
 7. Что такое framework, library, plugin etc. и в чм их отличие
 8. Все это будет происходить вместе с обучением языка Go
 
@@ -22,11 +23,11 @@
 3. 
 <!--stackedit_data:
 eyJkaXNjdXNzaW9ucyI6eyJPeEo0Y3VmM1p4VkltZjlCIjp7In
-N0YXJ0Ijo1NzYsImVuZCI6Njg3LCJ0ZXh0IjoiLSBbR28gYnkg
+N0YXJ0Ijo1NzksImVuZCI6NjkwLCJ0ZXh0IjoiLSBbR28gYnkg
 RXhhbXBsZXNdKGh0dHBzOi8vZ29ieWV4YW1wbGUuY29tLykgJi
 BbTGVhcm4gR28gdy8gdGVzdHNdKGh0dHBzOi8vcXVpaeKApiJ9
-LCJ5NG5NR0dqaHBxb1dyV1E4Ijp7InN0YXJ0Ijo5NTIsImVuZC
-I6MTA2NSwidGV4dCI6IjEuIFvQn9C+0LPRgNGD0LbQtdC90LjQ
+LCJ5NG5NR0dqaHBxb1dyV1E4Ijp7InN0YXJ0Ijo5NTUsImVuZC
+I6MTA2OCwidGV4dCI6IjEuIFvQn9C+0LPRgNGD0LbQtdC90LjQ
 tSDQsiDQn9Cw0YLRgtC10YDQvdGLINC/0YDQvtC10LrRgtC40Y
 DQvtCy0LDQvdC40Y9dKGh0dHBzOi8vbWVnYS5uei8jIVlEaFZ6
 UUlJITVQWEF3RzN4dkvigKYifX0sImNvbW1lbnRzIjp7IklxN1
@@ -44,6 +45,6 @@ vQtSwg0LLRgdC1INGH0YLQviDQvdCw0Y/RgdC90L4g4oCUINGB
 0L/RgNCw0YjQuNCy0LDQuSDQvtCx0Y/Qt9Cw0YLQtdC70YzQvd
 C+LCDQuNC70Lgg0YLRg9GCLCDQuNC70Lgg0L3QtSDRgtGD0YIi
 LCJjcmVhdGVkIjoxNTM1MTE5MTc5MTg0fX0sImhpc3RvcnkiOl
-sxNDQ3NjMxNjMyLDIwOTUxNTgyMjQsMTAwNjQ5NTUwLDE4NDY2
-ODgxMiwtMTg3Mjg5MjcwNF19
+stMTI0MTg2NTIzOCwxNDQ3NjMxNjMyLDIwOTUxNTgyMjQsMTAw
+NjQ5NTUwLDE4NDY2ODgxMiwtMTg3Mjg5MjcwNF19
 -->
