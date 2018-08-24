@@ -2,15 +2,15 @@
 1. Средняя математика (в основном повторение)
 2. Начало высшей математики
 3. Изученние паттернов проектирования
-4. Классы осыков, в особенности объектно-ориентированного программирования, его философии и почему он именно такой какой есть.
+4. Классы языков, в особенности объектно-ориентированного программирования, его философии и почему он именно такой какой есть.
 5. Более грубокое изучение основ ООП
 6.  SOLID
-	1. single responsibility
-	2. open-closed
+	1. Single responsibility
+	2. Open-closed
 	3. Liskov substitution
-	4. interface segregation
-	5. dependency inversion
-7. Что такое framework, library, plugin etc. и в чм их отличие
+	4. Interface segregation
+	5. Dependency inversion
+7. Что такое framework, library, plugin etc. и в чем их отличие
 8. Все это будет происходить вместе с обучением языка Go
 
 
@@ -36,11 +36,11 @@
 ---
 <!--stackedit_data:
 eyJkaXNjdXNzaW9ucyI6eyJPeEo0Y3VmM1p4VkltZjlCIjp7In
-N0YXJ0Ijo1ODksImVuZCI6NzAwLCJ0ZXh0IjoiLSBbR28gYnkg
+N0YXJ0Ijo1OTAsImVuZCI6NzAxLCJ0ZXh0IjoiLSBbR28gYnkg
 RXhhbXBsZXNdKGh0dHBzOi8vZ29ieWV4YW1wbGUuY29tLykgJi
 BbTGVhcm4gR28gdy8gdGVzdHNdKGh0dHBzOi8vcXVpaeKApiJ9
-LCJ5NG5NR0dqaHBxb1dyV1E4Ijp7InN0YXJ0Ijo5NjUsImVuZC
-I6MTA3OCwidGV4dCI6IjEuIFvQn9C+0LPRgNGD0LbQtdC90LjQ
+LCJ5NG5NR0dqaHBxb1dyV1E4Ijp7InN0YXJ0Ijo5NjYsImVuZC
+I6MTA3OSwidGV4dCI6IjEuIFvQn9C+0LPRgNGD0LbQtdC90LjQ
 tSDQsiDQn9Cw0YLRgtC10YDQvdGLINC/0YDQvtC10LrRgtC40Y
 DQvtCy0LDQvdC40Y9dKGh0dHBzOi8vbWVnYS5uei8jIVlEaFZ6
 UUlJITVQWEF3RzN4dkvigKYifX0sImNvbW1lbnRzIjp7IklxN1
@@ -63,8 +63,8 @@ V1E4Iiwic3ViIjoiZ2g6NTM3NjQ5NSIsInRleHQiOiLQndGDIN
 C40LvQuCDQv9GA0L7RgdGC0L4g0LIg0LDQudCx0YPQuiDRgdC1
 0LHQtSDRgdC60LDRh9Cw0LksINGC0LDQvCDQstGB0LUg0YTQvt
 GA0LzQsNGC0Ysg0LTQsNC90YsiLCJjcmVhdGVkIjoxNTM1MTIw
-ODc0NDIzfX0sImhpc3RvcnkiOlstNDkzODk4OTc0LC0xNDI0Nz
-YwODk4LC0xMjkxMTE4MzkxLDcwODg1NjcwMiwzNjM4ODMzOSwx
-NDQ3NjMxNjMyLDIwOTUxNTgyMjQsMTAwNjQ5NTUwLDE4NDY2OD
-gxMiwtMTg3Mjg5MjcwNF19
+ODc0NDIzfX0sImhpc3RvcnkiOlszODgyMzE5NjksLTE0MjQ3Nj
+A4OTgsLTEyOTExMTgzOTEsNzA4ODU2NzAyLDM2Mzg4MzM5LDE0
+NDc2MzE2MzIsMjA5NTE1ODIyNCwxMDA2NDk1NTAsMTg0NjY4OD
+EyLC0xODcyODkyNzA0XX0=
 -->
