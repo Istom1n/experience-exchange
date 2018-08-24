@@ -25,7 +25,7 @@
 1. [Погружение в Паттерны проектирования](https://mega.nz/#!YDhVzQII!5PXAwG3xvKqtOyEOBGuFEXMdbB_4ZejeZBEYsM43xhg)
 2. [Погружение в Рефакторинг](https://mega.nz/#!dOpz3KDI!-H5Cl3H8q0-QoJxG2J4YzCeuB0iQrkmXRk6SCV1JjEQ)
 
-## Задания на 26.08
+## Задания на 26.08 23:59
 > Я выбрал воскресерье, потому что ты будешь приходить с работы уставший и ничего толком не выучить ни сделать. Т. к. до конца недели осталось довольно мало, задания даю тебе довольно простые.
 
 1. Установить Go последней версии, и в качестве проверки просто введешь ([хинт моего перевода по установке](https://istom1n.gitbook.io/learn-go-with-tests/install-go)).
@@ -63,8 +63,8 @@ V1E4Iiwic3ViIjoiZ2g6NTM3NjQ5NSIsInRleHQiOiLQndGDIN
 C40LvQuCDQv9GA0L7RgdGC0L4g0LIg0LDQudCx0YPQuiDRgdC1
 0LHQtSDRgdC60LDRh9Cw0LksINGC0LDQvCDQstGB0LUg0YTQvt
 GA0LzQsNGC0Ysg0LTQsNC90YsiLCJjcmVhdGVkIjoxNTM1MTIw
-ODc0NDIzfX0sImhpc3RvcnkiOlstMTgyMDEyNjMwNSwtMTQyND
-c2MDg5OCwtMTI5MTExODM5MSw3MDg4NTY3MDIsMzYzODgzMzks
-MTQ0NzYzMTYzMiwyMDk1MTU4MjI0LDEwMDY0OTU1MCwxODQ2Nj
-g4MTIsLTE4NzI4OTI3MDRdfQ==
+ODc0NDIzfX0sImhpc3RvcnkiOlstNDkzODk4OTc0LC0xNDI0Nz
+YwODk4LC0xMjkxMTE4MzkxLDcwODg1NjcwMiwzNjM4ODMzOSwx
+NDQ3NjMxNjMyLDIwOTUxNTgyMjQsMTAwNjQ5NTUwLDE4NDY2OD
+gxMiwtMTg3Mjg5MjcwNF19
 -->
