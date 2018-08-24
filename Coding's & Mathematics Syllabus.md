@@ -31,7 +31,7 @@
 [ ] 1. Установить Go последней версии, и в качестве проверки просто введешь ([хинт моего перевода по установке](https://istom1n.gitbook.io/learn-go-with-tests/install-go)).
 [ ] 2. Также, прочитать главу "Привет, мир!" и соответственно скомпилировать и выполнить ее.
 [ ] 3. Выучить [синтаксис Markdown](https://guides.github.com/features/mastering-markdown/), он очень простой, зато когда привыкаешь, уже не хочется ни к чему переходить.
-[ ] 4. Прочитать из первой книги две главы: ""
+[ ] 4. Прочитать из первой книги две главы: "Введение в ООП", "Основы паттернов".
 
 ---
 <!--stackedit_data:
@@ -57,8 +57,14 @@ INC10LUsINC+0L3QsCDQtdGB0YLRjCDQvdCwINC60LjQvdC00L
 vQtSwg0LLRgdC1INGH0YLQviDQvdCw0Y/RgdC90L4g4oCUINGB
 0L/RgNCw0YjQuNCy0LDQuSDQvtCx0Y/Qt9Cw0YLQtdC70YzQvd
 C+LCDQuNC70Lgg0YLRg9GCLCDQuNC70Lgg0L3QtSDRgtGD0YIi
-LCJjcmVhdGVkIjoxNTM1MTE5MTc5MTg0fX0sImhpc3RvcnkiOl
-stNDU4MTU3ODE2LC0xNDI0NzYwODk4LC0xMjkxMTE4MzkxLDcw
-ODg1NjcwMiwzNjM4ODMzOSwxNDQ3NjMxNjMyLDIwOTUxNTgyMj
-QsMTAwNjQ5NTUwLDE4NDY2ODgxMiwtMTg3Mjg5MjcwNF19
+LCJjcmVhdGVkIjoxNTM1MTE5MTc5MTg0fSwienRyUXBONVozZX
+dkRTlvNCI6eyJkaXNjdXNzaW9uSWQiOiJ5NG5NR0dqaHBxb1dy
+V1E4Iiwic3ViIjoiZ2g6NTM3NjQ5NSIsInRleHQiOiLQndGDIN
+C40LvQuCDQv9GA0L7RgdGC0L4g0LIg0LDQudCx0YPQuiDRgdC1
+0LHQtSDRgdC60LDRh9Cw0LksINGC0LDQvCDQstGB0LUg0YTQvt
+GA0LzQsNGC0Ysg0LTQsNC90YsiLCJjcmVhdGVkIjoxNTM1MTIw
+ODc0NDIzfX0sImhpc3RvcnkiOls4MjY5MzE5NjcsLTE0MjQ3Nj
+A4OTgsLTEyOTExMTgzOTEsNzA4ODU2NzAyLDM2Mzg4MzM5LDE0
+NDc2MzE2MzIsMjA5NTE1ODIyNCwxMDA2NDk1NTAsMTg0NjY4OD
+EyLC0xODcyODkyNzA0XX0=
 -->
