@@ -13,6 +13,7 @@
 - [Go by Examples](https://gobyexample.com/) & [Learn Go w/ tests](https://quii.gitbook.io/learn-go-with-tests)
 - [Паттерны проектирования на Go](https://github.com/tmrts/go-patterns)
 - Рефакторинг
+- [Паттерн проектирования на PHP, он довольно прост, поэтому идеи самого паттерна можно черпать отсюда]()
 
 
 #### Книги
@@ -23,8 +24,8 @@ eyJkaXNjdXNzaW9ucyI6eyJPeEo0Y3VmM1p4VkltZjlCIjp7In
 N0YXJ0Ijo1NzYsImVuZCI6Njg3LCJ0ZXh0IjoiLSBbR28gYnkg
 RXhhbXBsZXNdKGh0dHBzOi8vZ29ieWV4YW1wbGUuY29tLykgJi
 BbTGVhcm4gR28gdy8gdGVzdHNdKGh0dHBzOi8vcXVpaeKApiJ9
-LCJUdXN1UFhHT3dJdlJoSnZJIjp7InN0YXJ0Ijo4ODgsImVuZC
-I6MTAwMCwidGV4dCI6Ii0gW9Cf0L7Qs9GA0YPQttC10L3QuNC1
+LCJUdXN1UFhHT3dJdlJoSnZJIjp7InN0YXJ0Ijo5OTQsImVuZC
+I6MTEwNiwidGV4dCI6Ii0gW9Cf0L7Qs9GA0YPQttC10L3QuNC1
 INCyINCf0LDRgtGC0LXRgNC90Ysg0L/RgNC+0LXQutGC0LjRgN
 C+0LLQsNC90LjRj10oaHR0cHM6Ly9tZWdhLm56LyMhWURoVnpR
 SUkhNVBYQXdHM3h2S3HigKYifX0sImNvbW1lbnRzIjp7IklxN1
@@ -42,5 +43,6 @@ vQtSwg0LLRgdC1INGH0YLQviDQvdCw0Y/RgdC90L4g4oCUINGB
 0L/RgNCw0YjQuNCy0LDQuSDQvtCx0Y/Qt9Cw0YLQtdC70YzQvd
 C+LCDQuNC70Lgg0YLRg9GCLCDQuNC70Lgg0L3QtSDRgtGD0YIi
 LCJjcmVhdGVkIjoxNTM1MTA5OTIyNDgzfX0sImhpc3RvcnkiOl
-sxMDA2NDk1NTAsMTg0NjY4ODEyLC0xODcyODkyNzA0XX0=
+syMDk1MTU4MjI0LDEwMDY0OTU1MCwxODQ2Njg4MTIsLTE4NzI4
+OTI3MDRdfQ==
 -->
