@@ -28,10 +28,10 @@
 ## Задания на 26.08
 > Я выбрал воскресерье, потому что ты будешь приходить с работы уставший и ничего толком не выучить ни сделать. Т. к. до конца недели осталось довольно мало, задания даю тебе довольно простые.
 
-[ ] 1. Установить Go последней версии, и в качестве проверки просто введешь ([хинт моего перевода по установке](https://istom1n.gitbook.io/learn-go-with-tests/install-go)).
-[ ] 2. Также, прочитать главу "Привет, мир!" и соответственно скомпилировать и выполнить ее.
-[ ] 3. Выучить [синтаксис Markdown](https://guides.github.com/features/mastering-markdown/), он очень простой, зато когда привыкаешь, уже не хочется ни к чему переходить.
-[ ] 4. Прочитать из первой книги две главы: "Введение в ООП", "Основы паттернов".
+1. Установить Go последней версии, и в качестве проверки просто введешь ([хинт моего перевода по установке](https://istom1n.gitbook.io/learn-go-with-tests/install-go)).
+2. Также, прочитать главу "Привет, мир!" и соответственно скомпилировать и выполнить ее.
+3. Выучить [синтаксис Markdown](https://guides.github.com/features/mastering-markdown/), он очень простой, зато когда привыкаешь, уже не хочется ни к чему переходить.
+4. Прочитать из первой книги две главы: "Введение в ООП", "Основы паттернов".
 
 ---
 <!--stackedit_data:
@@ -63,8 +63,8 @@ V1E4Iiwic3ViIjoiZ2g6NTM3NjQ5NSIsInRleHQiOiLQndGDIN
 C40LvQuCDQv9GA0L7RgdGC0L4g0LIg0LDQudCx0YPQuiDRgdC1
 0LHQtSDRgdC60LDRh9Cw0LksINGC0LDQvCDQstGB0LUg0YTQvt
 GA0LzQsNGC0Ysg0LTQsNC90YsiLCJjcmVhdGVkIjoxNTM1MTIw
-ODc0NDIzfX0sImhpc3RvcnkiOls4MjY5MzE5NjcsLTE0MjQ3Nj
-A4OTgsLTEyOTExMTgzOTEsNzA4ODU2NzAyLDM2Mzg4MzM5LDE0
-NDc2MzE2MzIsMjA5NTE1ODIyNCwxMDA2NDk1NTAsMTg0NjY4OD
-EyLC0xODcyODkyNzA0XX0=
+ODc0NDIzfX0sImhpc3RvcnkiOlstMTgyMDEyNjMwNSwtMTQyND
+c2MDg5OCwtMTI5MTExODM5MSw3MDg4NTY3MDIsMzYzODgzMzks
+MTQ0NzYzMTYzMiwyMDk1MTU4MjI0LDEwMDY0OTU1MCwxODQ2Nj
+g4MTIsLTE4NzI4OTI3MDRdfQ==
 -->
