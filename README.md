@@ -9,8 +9,8 @@
 
 > Посмотрим, что из этого получится, при написании всех текстов и прочего использовался https://stackedit.io/, из всего, что я искал, этот оказался самым лучшем вариантом.
 >
-> Copyright 2018
+> Copyright 2018 © Ivan Istomin, Manu Khakolov
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjgyOTU4MzgsLTEzMDc4ODY1MjksLT
-YwNDg1ODk1OV19
+eyJoaXN0b3J5IjpbMTkzNDU1MjQ4NCwtMTM2ODI5NTgzOCwtMT
+MwNzg4NjUyOSwtNjA0ODU4OTU5XX0=
 -->
