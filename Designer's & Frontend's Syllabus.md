@@ -23,6 +23,9 @@
 - https://www.typographicposters.com/
 - https://antonz.ru/
 
+
+#### Ссылки
+[BEM](http://getbem.com/)
 <!--stackedit_data:
 eyJkaXNjdXNzaW9ucyI6eyJQTUtrT25IWUN6Nzh0SzNFIjp7In
 N0YXJ0IjoxNzQsImVuZCI6MjAyLCJ0ZXh0Ijoi0KjQtdC50LTQ
@@ -82,5 +85,6 @@ Y0Y1TUpkOSI6eyJkaXNjdXNzaW9uSWQiOiJiUVc3ZWZxR1F1ZW
 XQvNGDINC+0LjQvSDQutCw0L3QsNC7INGA0LDRgdC/0YDQvtGB
 0YLRgNCw0L3QtdC90LjRjyDQuCDRgtC+0YIg0LIg0LbQvtC/0L
 U/IiwiY3JlYXRlZCI6MTUzNTA5NjYxNDIxOH19LCJoaXN0b3J5
-IjpbLTI5MjExMTEzMSwyMTQ1MzA0OTg2XX0=
+IjpbLTQ0MzU3NTYwOCwtMjkyMTExMTMxLDIxNDUzMDQ5ODZdfQ
+==
 -->
